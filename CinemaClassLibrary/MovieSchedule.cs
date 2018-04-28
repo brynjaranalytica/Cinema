@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CinemaClassLibrary
 {
-    class MovieSchedule
+    public class MovieSchedule
     {
         public Movie Movie { get; set; }
         public Room Room { get; set; }

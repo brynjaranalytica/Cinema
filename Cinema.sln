@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaClassLibrary", "CinemaClassLibrary\CinemaClassLibrary.csproj", "{70F452E5-A114-4DE3-BDA5-AB12AA978AEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaWebApplication", "CinemaWebApplication\CinemaWebApplication.csproj", "{4CA44630-EE80-41C5-9362-CDC928C17E8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaWebApplication", "CinemaWebApplication\CinemaWebApplication.csproj", "{5131228B-F38F-4D4D-8473-F40DCEE04AEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{70F452E5-A114-4DE3-BDA5-AB12AA978AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F452E5-A114-4DE3-BDA5-AB12AA978AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F452E5-A114-4DE3-BDA5-AB12AA978AEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4CA44630-EE80-41C5-9362-CDC928C17E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CA44630-EE80-41C5-9362-CDC928C17E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CA44630-EE80-41C5-9362-CDC928C17E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CA44630-EE80-41C5-9362-CDC928C17E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5131228B-F38F-4D4D-8473-F40DCEE04AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5131228B-F38F-4D4D-8473-F40DCEE04AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5131228B-F38F-4D4D-8473-F40DCEE04AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5131228B-F38F-4D4D-8473-F40DCEE04AEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

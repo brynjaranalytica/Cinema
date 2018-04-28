@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CinemaClassLibrary
 {
-    class Reservation
+    public class Reservation
     {
         public String Number { get; set; }
         public Customer Customer { get; set; }

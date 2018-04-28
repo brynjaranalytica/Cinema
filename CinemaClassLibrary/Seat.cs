@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CinemaClassLibrary
 {
-    class Seat
+    public class Seat
     {
         public int Row { get; set; }
         public int Column { get; set; }

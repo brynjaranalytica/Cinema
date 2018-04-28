@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="07b2678f-1e4d-432e-bb4e-6e66d9a44a96" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fc043bf9-cbd8-4bc7-8050-36cfb6ca71bc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,8 +22,8 @@
     <MetadataSource Address="https://secure.ftipgw.com/ArgoFire/validate.asmx" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="validate.disco" MetadataType="Disco" ID="4b3efc43-a1ca-40d3-86db-9150e5658460" SourceId="1" SourceUrl="https://secure.ftipgw.com/ArgoFire/validate.asmx?disco" />
-    <MetadataFile FileName="validate.wsdl" MetadataType="Wsdl" ID="4fbb962d-12fe-42dc-82c0-d3d3c74c8967" SourceId="1" SourceUrl="https://secure.ftipgw.com/ArgoFire/validate.asmx?wsdl" />
+    <MetadataFile FileName="validate.disco" MetadataType="Disco" ID="19962484-8216-458f-9edc-03ad2d3ee732" SourceId="1" SourceUrl="https://secure.ftipgw.com/ArgoFire/validate.asmx?disco" />
+    <MetadataFile FileName="validate.wsdl" MetadataType="Wsdl" ID="a6637b40-3e40-4d09-91aa-b87fd2fc4f98" SourceId="1" SourceUrl="https://secure.ftipgw.com/ArgoFire/validate.asmx?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
